@@ -30,7 +30,7 @@ export default function App() {
         <div className="flex flex-col sm:flex-row gap-5 justify-center items-center">
 
           <a
-            href="https://vk.com"
+            href="href="https://vk.com/imos_com""
             target="_blank"
             className="px-10 py-5 rounded-2xl bg-blue-500 hover:bg-blue-400 transition-all hover:scale-105 text-lg font-bold shadow-2xl"
           >
