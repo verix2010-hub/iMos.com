@@ -60,4 +60,35 @@ export default function App() {
 
     </div>
   )
+}git init
+git add .
+git commit -m "first version"
+a2141@MacBook-Pro-2141 vk-site % >....                    
+            <a
+              href="https://vk.com"
+              target="_blank"
+              className="px-6 py-3 rounded-xl bg-blue-500 hover:bg-blue-400 transition-all font-semibold"
+            >
+              VK
+            </a>
+
+            <a
+              href="https://github.com"
+              target="_blank"
+              className="px-6 py-3 rounded-xl border border-white/20 hover:bg-white/10 transition-all font-semibold" 
+            >
+              GitHub
+            </a>
+
+          </div>
+
+        </div>
+
+      </footer>
+
+    </div>
+  )
 }
+
+zsh: parse error near `\n'
+a2141@MacBook-Pro-2141 vk-site % 
